@@ -22,4 +22,15 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  
  Create your response below this line. 
  ------------------
+## *A Favorite Quote*
+> Cheese Grommit!
+
+## *A Favorite Photo*
+![alt text](https://images.fineartamerica.com/images-medium-large-5/autumns-glow-c-steele.jpg "Bob Ross Painting")
+
+## *Questions for Class*
+1. What are some big projects going on now and in the future involving digital humanities?
+2. Who are the big leaders in the world of digital humanities?
+3. Why did the chicken cross the road?
+
 
