@@ -26,6 +26,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 > Cheese Grommit!
 
 ## *A Favorite Photo*
+![alt text](https://images.fineartamerica.com/images-medium-large-5/autumns-glow-c-steele.jpg "Bob Ross Painting")
 [Bob Ross Photo Link](https://images.fineartamerica.com/images-medium-large-5/autumns-glow-c-steele.jpg)
 
 ## *Questions for Class*
