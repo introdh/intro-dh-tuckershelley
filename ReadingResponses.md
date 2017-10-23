@@ -22,6 +22,18 @@ I found it strange that in order to see who was influencing the book more, they 
 
 ### 2017-10-18: Spatial history
 
+#### Beyond GIS
+
+What is the difference between space and place? The statement made by Ed Ayers stands out to me. First off, it's cool to see our ex president mentioned in a scholarly article, but also his statement sums up perfectly the interconnectivity of history. 
+
+#### What is Spacial History?
+
+"Spatial relations are established through the movement of people, plants, animals, goods, and information." This really stands out to me. Space would really be nothing if there was no movement going on in it. It's rather obvious when pointed out, but I had never thought of it like that. What is the opposite of absolute space? Would it be theoretical space?
+
+#### A Data Model for Spacial History
+
+
+
 ### 2017-10-23: Mapping: A Critical Introductin
 
 ### 2017-11-06: Social networks
