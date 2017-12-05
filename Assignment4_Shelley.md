@@ -1,12 +1,12 @@
 # Writeup
 For this project I made a network of connections between supreme court cases. Each node is a specific court case and the edges represent references to a different case. I chose cases from three different topics of court cases to see if they were often cited by the other cases. The three topics I chose were involuntary confession, desegregation, and due process: prisoners rights and defendents rights. I figured that there would be a lot of connections between involuntary confession and prisoners and defendents rights as their rights would be violated in the process of a forced confession. I also wanted to look at race and see if there were many connections between desegregation issues and these two topics. Below is an image of the issues each color coded in the network that I created. By looking at this network it makes the argument that the overlap of citations is much more abundant between involuntary confessions and desegregation, leaving out prisoners and defendents rights. I thought the rights of African Americans would be violated often, especially in relation to desegregation cases, however the network says differently. The network infers that many African Americans were often advised by attourneys to plead guilty due to their inability to win the case due to their race. 
 
-![alt text](intro-dh-tuckershelley/Issues.png "Issues")
+![alt text](https://github.com/introdh/intro-dh-tuckershelley/blob/master/Issues.png "Issues")
 
 As you can see here, aside from a few cases, most of these don't have very much overlap with each other. However, if you look at this next photo, you can tell that there are five different clusters of cases that are involved with eachother. In this network, the green cluster are almost all desegregation cases that often get cited by involuntary confession cases. I took a closer look at the upper left most case in that cluster to see why it is cited so often by involuntary confession cases. This case involved a group of African Americans that refused to leave a golf course after being asked to leave. The jury was told that the reason they weren't allowed on the course in the first place cannot be due to their race. However, they were found guilty regardless (Cite the supreme court website). 
 
-![alt text](intro-dh-tuckershelley/Cluster.png "Clusters")
+![alt text](https://github.com/introdh/intro-dh-tuckershelley/blob/master/Cluster.png "Clusters")
 
 Centrality is very telling on the implications that certain cases leave for others. Centrality is a measure of which nodes have the most edges stemming from them. In this example, it is the court case that gets cited the most by the others in the network. In this network, it is clear that the centrality lies in the topic of involuntary confessions. 
 
-![alt text](https://github.com/introdh/intro-dh-tuckershelley/blob/master/Centrality.png "Issues")
+![alt text](https://github.com/introdh/intro-dh-tuckershelley/blob/master/Centrality.png "Centrality")
