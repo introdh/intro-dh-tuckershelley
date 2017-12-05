@@ -7,4 +7,6 @@ As you can see here, aside from a few cases, most of these don't have very much 
 
 ![alt text](intro-dh-tuckershelley/Cluster.png "Clusters")
 
-Centrality is very telling on the implications that certain cases leave for others. Centrality is a measure of which nodes have the most edges stemming from them. 
+Centrality is very telling on the implications that certain cases leave for others. Centrality is a measure of which nodes have the most edges stemming from them. In this example, it is the court case that gets cited the most by the others in the network. In this network, it is clear that the centrality lies in the topic of involuntary confessions. 
+
+![alt text](https://github.com/introdh/intro-dh-tuckershelley/blob/master/Centrality.png "Issues")
