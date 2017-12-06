@@ -13,9 +13,12 @@ Centrality is very telling on the implications that certain cases leave for othe
 
 While this network sheds light on the relationship between the three court case topics, it has some drawbacks that decrease the effectiveness of it. The first is that, as Franco Moretti states in his network of Hamlet dialogue, there is no weight of how strong the connection is (Moretti, 3). This hurts the impact of the network as it doesn't show how important or weighty the citation was. Some of them might have been very small parts of the court arguments while others may have changed the tide of that trial. Another issue is that I have constructed no sense of directionality with these edges. In other words, there is no sense of whether a node, or case, is being cited or is doing the citing. This can really throw us off when looking at centrality because it could either be a case that is cited a lot or a case that pulled from many different places. 
 
+We could also go further with this network. One way I was thinking, is to color code the nodes in which the cases involved an African American descendent. This would be similar to the NIH funding profile network from the Weingart reading (Weingart). 
+
+In conclusion, this network gives us a glimpse into the relationships between Supreme Court cases regarding desegregation, involuntary confession, and due process: prisoners and defendents rights. There are some drawbacks that don't allow us to make assumptions about the data, but a lot can be learned by teasing apart the network and even more can be done with it using different technologies.
 
 # Bibliography
 
 Moretti, Franco. "Network Theory, Plot Analysis."
 
-
+Weingart, Scott. “Contextualizing networks with maps.”
