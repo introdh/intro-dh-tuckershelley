@@ -10,10 +10,15 @@ __Using Text Analysis To Analyze Rap Lyrics__
 3. Narrative
 
   a. Enhancing the humanities
+  
   b. Environmental scan	
+  
   c. History of the project
+  
   d. Work plan
+  
   e. Staff
+  
   f. Final product and dissemination	
 
 List of participants
